@@ -4,4 +4,4 @@ Currently working on IDEP Network & Fashion3.
 
 ![](https://github.com/aidasap/aidasap/blob/main/vest.gif)
 
-<img src="https://github.com/aidasap/aidasap/blob/main/vest.gif" width="450" height="350">
+<img src="https://github.com/aidasap/aidasap/blob/main/vest.gif" width="650" height="450">
